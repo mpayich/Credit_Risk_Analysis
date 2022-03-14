@@ -16,7 +16,7 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 - Accuracy score
 - Precision score
 - Recall score
-- ClusterCentroids
+##### ClusterCentroids
 - Accuracy score
 - Precision score
 - Recall score
