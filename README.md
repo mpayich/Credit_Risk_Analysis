@@ -12,7 +12,7 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 ![Credit_Risk_Analysis/RandomOverSampler](RandomOverSampler.jpg)
 
 ##### SMOTE
-![Credit_Risk_Analysis/SMOTE](SMOTEr.jpg)
+![Credit_Risk_Analysis/SMOTE](SMOTE.jpg)
 
 ##### ClusterCentroids
 ![Credit_Risk_Analysis/ClusterCentroids](ClusterCentroids.jpg)
