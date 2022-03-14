@@ -21,7 +21,7 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 ![Credit_Risk_Analysis/SMOTEENN](SMOTEENN.jpg)
 
 ##### BalancedRandomForestClassifier
-![Credit_Risk_Analysis/BalancedRandomForestClassifier](BalancedRandomForestClassifier.jpg)
+![Credit_Risk_Analysis/BalancedRandomForrestClassifier](BalancedRandomForrestClassifier.jpg)
 
 ##### EasyEnsembleClassifier
 ![Credit_Risk_Analysis/EasyEnsembleClassifier](EasyEnsembleClassifier.jpg)
