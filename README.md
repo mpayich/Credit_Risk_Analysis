@@ -9,9 +9,8 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models
 
 ##### RandomOverSampler
-- Accuracy score
-- Precision score
-- Recall score
+![RandomOverSampler](RandomOverSampler.png)
+
 ##### SMOTE
 - Accuracy score
 - Precision score
